@@ -1,17 +1,22 @@
-# C Programming for Embedded Systems
+# C Basics
 
 This folder contains my C programming practice for Embedded Systems.
 
-## Topics
+## Day 1 - Hello Embedded Systems
 
-- Variables and Data Types
-- Operators
-- Arrays and Strings
-- Functions
-- Pointers
-- Structures
-- Bit Manipulation
+### Program
+`hello_embedded.c`
 
-## Goal
+### Concepts Used
 
-Build strong C programming fundamentals for Embedded Systems and Microcontroller programming.
+- `#include <stdio.h>`
+- `main()` function
+- `printf()`
+- `return 0`
+
+### Output
+
+```text
+Hello, Embedded Systems!
+My name is Revansidda.
+Day 1 - C Programming Practice
