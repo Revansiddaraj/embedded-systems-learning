@@ -1,23 +1,29 @@
-# C Basics
+---
 
-This folder contains my C programming practice for Embedded Systems.
-
-## Day 1 - Hello Embedded Systems
+## Day 3 - Arrays and Strings
 
 ### Program
 
-`hello_embedded.c`
+`arrays_strings.c`
 
 ### Concepts Used
 
-- `#include <stdio.h>`
-- `main()` function
-- `printf()`
-- `return 0`
+- Integer arrays
+- Character arrays
+- Strings
+- `for` loop
+- Array indexing
 
 ### Output
 
 ```text
-Hello, Embedded Systems!
-My name is Revansidda.
-Day 1 - C Programming Practice
+Embedded Systems - Day 3
+-------------------------
+Sensor Values:
+Sensor[0] = 10
+Sensor[1] = 20
+Sensor[2] = 30
+Sensor[3] = 40
+Sensor[4] = 50
+
+Device Name: ESP32
